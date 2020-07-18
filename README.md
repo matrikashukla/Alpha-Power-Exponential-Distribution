@@ -1,9 +1,13 @@
 # Alpha-Power-Exponential-Distribution-Application
 
  https://doi.org/10.1080/03610926.2015.1130839 Please refer to this link,and read the research paper for understanding the topic.
+ 
  We will work on part 5 of this research paper and draw conclusions of our own.
+ 
  QUESTION:
- Application: coal-mining dataset
+ 
+ COAL MINING DATASET
+ 
 In this section, we analyze one dataset to show the performance of the proposed model. The
 uncensored dataset corresponding to intervals in days between 109 successive coal-mining
 disasters in Great Britain, for the period 1875–1951, published by Maguire et al. (1952) is
