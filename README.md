@@ -1,5 +1,7 @@
 # Alpha-Power-Exponential-Distribution-Application
 
+This is a review of  the following research paper. It is an independent work!
+
 Citations: Abbas Mahdavi & Debasis Kundu (2017) A new method for generating distributions with an application to exponential distribution, Communications in Statistics - Theory and Methods, 46:13, 6543-6557, DOI: 10.1080/03610926.2015.1130839
 
 
